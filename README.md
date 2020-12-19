@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/brayan-santos-0a7b8b9a/" target="blank"><img alt="Linkedin Badge" src="https://www.linkedin.com/in/brayan-santos-0a7b8b9a/"/></a>
+<a href="https://www.linkedin.com/in/brayan-santos-0a7b8b9a/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Yuri%20Mutti-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-santos-0a7b8b9a/"/></a>
 <a href="v.brayansantos@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-muttiyuri@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
 </p>
