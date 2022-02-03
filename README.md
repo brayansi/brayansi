@@ -10,7 +10,3 @@
 <a href="https://www.linkedin.com/in/brayan-santos-0a7b8b9a/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Brayan%20Santos-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-santos-0a7b8b9a/"/></a>
 <a href="v.brayansantos@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-v.brayansantos@gmail.com-563D7C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
 </p>
-
-
-
-<img alt="Gmail Badge AAA" src="https://drive.google.com/file/d/1b4_nuWoFsD5t27HdMWSgZ_y_3mRqmMR5/view?usp=sharing"/>
